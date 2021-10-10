@@ -35,7 +35,7 @@ app.use(bodyParser.json());
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(flash());
 app.use(cors({
-  origin: config.abh_url
+  origin: config.ahb_url
 }));
 
 // Routes
