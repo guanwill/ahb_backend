@@ -16,7 +16,7 @@
     "express-graphql": "^0.9.0",
     "express-session": "^1.15.6",
     "graphql": "^15.2.0",
-    "graphql-tools": "^6.0.12",
+    "graphql-tools": "^6.2.6",
     "http-errors": "~1.6.2",
     "jade": "~1.11.0",
     "jsonwebtoken": "^8.5.1",
